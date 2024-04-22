@@ -40,10 +40,6 @@ The dataset used in this analysis contains comprehensive information about Netfl
 2. **Install Dependencies:** `pip install pandas matplotlib`
 3. **Explore the Notebooks:** Dive into our insightful analysis by opening the Jupyter notebooks in the `notebooks` directory.
 
-## 🌟 Contribution Guidelines
-
-Contributions are welcome! Whether it's adding new insights, improving visualizations, or fixing bugs, your contributions are valuable. Feel free to fork the repository, make your changes, and submit a pull request.
-
 ## 📧 Contact
 
 Have questions, suggestions, or just want to chat about Netflix? Reach out to us at [your_email@example.com](mailto:your_email@example.com).
