@@ -2,7 +2,7 @@
 
 Welcome to Netflix Data Analysis! 🌟
 
-![Netflix](https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif)
+![Netflix](https://t3.ftcdn.net/jpg/04/81/76/22/240_F_481762281_Xcvl3QsGh1pBMvQuyKIoIqq8aYksXEwX.jpg)
 
 ## Project Overview
 
